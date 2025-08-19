@@ -1,3 +1,5 @@
+> This repository is archived because it will not receive updates.
+
 # PUXANDO MODIFICAÇÕES DO REPOSITÓRIO
 
 - Antes de começar o trabalho na sua branch atual, fazer um git pull para pegar as alterações de outros colaboradores
